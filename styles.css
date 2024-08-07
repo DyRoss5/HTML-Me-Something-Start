@@ -20,11 +20,11 @@ html {
     display: block;
   }
   #mainHeading {
-    background-color: rgb(239, 21, 21);
+    color: red;
     text-align: center;
     text-decoration-line: underline;
   }
   .funParagraph {
-    background-color: rgb(8, 172, 8);
+    color: green;
   }
   
